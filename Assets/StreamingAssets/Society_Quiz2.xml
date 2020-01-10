@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Social_Quiz>
+	<Field stage="0" id="0" Text="Q 1. 헌법 제 1조 제 2항: 대한민국의 주권은 [     ]에게 있고, &#xA;모든 권력은 [     ]으로부터 나온다.&#xA; &#xA;① 대통령 ② 국회의원 ③ 대법관 ④ 성인 ⑤ 국민" Type="Option" Order="1,2,3,4,5" answer="5" left="*" right="*"/>
+	<Field stage="0" id="1" Text="Q 2. 대한민국의 주권은 국민에게 있습니다. 주권의 의미를 알아볼까요?&#xA; &#xA;주인된 권리로 우리나라의 국민이라면 누구나 가진다.  O/X" Type="Option" Order="O,X" answer="O" left="*" right="*"/>
+	<Field stage="0" id="2" Text="Q 3. 대한민국의 주권은 국민에게 있습니다. 주권의 의미를 알아볼까요?&#xA;&#xA;주인된 권리로 우리나라에 거주한다면 외국인도 가진다. O/X" Type="Option" Order="O,X" answer="X" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="1" id="0" Text="Q 1. 헌법 제11조 제1항: 모든 국민은 법 앞에 [ㅍㄷ]하다." Type="Typing1" Order="*" answer="평등" left="*" right="*"/>
+	<Field stage="1" id="1" Text="누구든지 성별, 종교 또는 사회적 신분에 의하여 정치적, 경제적, 사회적, 문화적 생활의 모든 영역에 있어서 [ㅊㅂ]을 받지 아니한다." Type="Typing1" Order="*" answer="차별" left="*" right="*"/>
+	<Field stage="1" id="2" Text="Q 2. 다음 상황에 대한 대화를 보고, 옳은 것을 고르시오. &#xA;&#xA;A: 나이가 어려도 동일한 권리를 가지기 때문에, 공중화장실에 어린이용 세면대를 1개 이상 설치할 것을 건의해야겠어.&#xA;B: 키 작은 어린이가 그정도 귀찮음은 감수할 줄도 알아야 해. 키가 쑥쑥 클 때까지 조금만 참으면 될거야." Type="Option" Order="A,B" answer="A" left="*" right="*"/>
+	<Field stage="1" id="3" Text="Q. 아래의 헌법 조항을 근거로 할 수 없는 말을 고르시오. &#xA;&#xA;헌법 제35조 제1항: 모든 국민은 건강하고 쾌적한 환경에서 생활할 권리를 가지며, 국가와 국민은 환경보전을 위하여 노력하여야 한다.&#xA;&#xA;① &quot;여기는 사람이 사는 주거단지인데 너무 많은 사람들이 찾아와서 큰소리를 내고 쓰레기를 버려.&quot;&#xA;② &quot;집 앞에 높은 건물이 지어지면서 집 안에 햇빛이 비추지 않아&quot;&#xA;③ &quot;나는 쾌적한 환경에서 생활할 권리를 가지고 있으니 나의 쾌적한 삶을 위해 발생하는 환경 오염은 다른 사람들이 해결해 줄거야.&quot;" Type="Option" Order="1,2,3" answer="3" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="2" id="0" Text="Q 1. 민주 정치는 주권이 소수의 선택된 국민에게 있고, 소수의 선택된 국민에 의해 주권이 행사되는 정치 형태이다." Type="Option" Order="O,X" answer="X" left="*" right="*"/>
+	<Field stage="2" id="1" Text="Q 2. 헌법은 국가 안에서 일어나는 모든 문제에 대한 가장 상위의 해결 지침으로서 법 중의 법, 으뜸인 법으로 불린다." Type="Option" Order="O,X" answer="O" left="*" right="*"/>
+	<Field stage="2" id="2" Text="Q 3. 우리나라 헌법에는 국가 기관의 조직과 권한에 대한 내용은 있지만 국민의 자유와 권리를 보장하는 내용 등은 제시되지 않다." Type="Option" Order="O,X" answer="X" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="3" id="0" Text="Q 1. 다음의 설명과 어울리는 주체를 연결하시오." Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="3" id="0" Text="1) 법을 제정하거나 수정, 폐기하는 국가 기관이다." Type="Link" Order="국회" answer="국회" left="1" right="국회"/>
+	<Field stage="3" id="0" Text="2) 여러 가지 정책을 개발하여 실천하는 기관이다." Type="Link" Order="법원" answer="행정부" left="2" right="법원"/>
+	<Field stage="3" id="0" Text="3) 법에 따라 공정하게 판단하여 문제를 해결해주는 일을 하는 기관이다." Type="Link" Order="행정부" answer="법원" left="3" right="행정부"/>
+	<Field stage="3" id="0" Text="4) 인권이 침해당했을 때나 법이 인권을 침해한다고 느꼈을 때 최고법인 헌법에 근거하여 이를 판단하는 기관이다." Type="Link" Order="헌법재판소" answer="헌법재판소" left="4" right="헌법재판소"/>
+	<Field stage="3" id="0" Text="[국회, 법원, 행정부, 헌법재판소]" Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="3" id="1" Text="Q 2. 다음의 설명에 해당하는 인물은 누구인지 써 봅시다." Type="Typing2" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="3" id="1" Text="1) 행정부의 장으로 국민에 의해 선출된다." Type="Typing2" Order="*" answer="대통령" left="*" right="*"/>
+	<Field stage="3" id="1" Text="2) 국회에서 입법 활동을 진행하며 국민에 의해 선출된다." Type="Typing2" Order="*" answer="국회의원" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+</Social_Quiz>

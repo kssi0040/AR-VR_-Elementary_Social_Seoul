@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Text_XML>
+	<Field stage="0" id="0" Text="###은/는 서울특별시 종로구를 둘러볼 것입니다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="1" Text="서울특별시 종로구는 조선왕조가 한양에 천도한 이래 오늘날까지 약 600여년 동안 서울의 중심이자 국가의 심장부로서 역할을 해왔습니다. &#xA;과거와 현대가 공존하는 이곳에서 우리나라의 왕정과 민주정을 체험해봅시다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="2" Text="서울시 종로구를 어디서부터 둘러보면 좋을까? 서울의 중심거리 세종대로에 위치한 광화문광장에서 출발해보자." char="player" anim="*" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="1" id="0" Text="###은/는 서울특별시 종로구 세종대로에 위치한 광화문광장에 도착했습니까?" char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="1" Text="광화문광장을 둘러볼까요?" char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="2" Text="광화문광장은 세종로 중앙에 길이 555m, 너비 34m로 조성되었습니다.광화문광장의 세부 구간은  '광화문의 역사를 회복하는 광장', '육조거리의 풍경을 재현하는 광장', '시민들이 참여하는 도시문화 광장', '한국의 대표 광장', '도심 속의 광장', '청계천 연결부'로 나누어지고 있습니다." char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="3" Text="서울시 열린광장 홈페이지의 '광화문광장'에 들어가면 소식과 행사 안내를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="4" Text="조선시대에는 광화문 문루에 신문고를 매달아 두었습니다. " char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="5" Text="조선시대 신문고에 대해 더 알아볼까요?" char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="6" Text="(1) 태종실록 2권, 태종 1년(1401년) 11월 16일&#xA;&quot;신문고가 설치되다. 하윤 등에게 신문고 유래의 설치 등에 대해 묻다.&quot;&#xA;신문고가 태종 1년에 설치되었습니다. 신문고는 송나라 때의 등문고를 &#xA;본딴 것입니다. 한 신하가 태종에게 물었습니다. &quot;신문고를 설치하는 것이 좋기는 좋은데, 거짓으로 치는 자도 간혹 있습니다.&quot; 그랬더니 다른 신하가 말하기를, &quot;신문고를 치는 법이 사실이면 들어주고, 허위이거나 소송의 절차를 지키지 않으면 죄를 주면 됩니다. 만일 지방 백성이 수령에게 호소하여 수령이 밝게 결단하지 못하면, 관찰사에게 호소하고 또 헌부에 호소하며, 헌부에서 또 밝게 결단하지 못한 연후에 치는 것입니다. 그러므로 관리가 백성의 송사를 다룰 때 이것이 상부에 올라갈까 두려워하여 마음을 다하기 때문에, 백성이 그 복을 받으니, 실로 자손 만세의 좋은 법입니다.&quot; 이 말을 들은 태종은 이 말이 옳다고 했습니다." char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="7" Text="(2) 영조실록 118권, 영조 48년(1772년) 5월 26일 &#xA;&quot;신문고를 친 연인손을 공초하다.&quot;&#xA;연안손이라는 사람이 국가로부터 봉급을 받았으나, 위의 관리에게 빼앗겨 신문고를 쳤습니다. 영조가 말하기를, &quot;이후 사건사(신분 문제, 가족 문제와 얽힌 중요한 4가지 사건)가 아니면, 이 북을 울리지 못하게 하라. 그래도 북을 울 리는 경우 엄중히 세 차례 추문하여 섬에서 군인으로 복무하게 하라.&quot;라고 했습니다." char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="8" Text="신문고를 쳐 볼까요?" char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="9" Text="이게 어찌된 일일까요? 광화문광장에는 촛불을 든 사람들로 가득 차 있습니다. " char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="10" Text="광화문광장이 평소와는 다르게 수많은 사람들로 가득한걸 보니, 뭔가 심상치 않은 일이 벌어지고 있는 것 같네. 무슨 일인지 알아보자!" char="player" anim="*" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="11" Text="저희는 정부에 항의하기 위해 촛불을 들고 광화문광장에 모였습니다. 촛불집회는 어떠한 사안에 대해 항의하기 위한 비폭력 시위 방법이지요." char="el_father" anim="fatherAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="12" Text="정부에 항의한다니 그게 무슨 말이죠?" char="player" anim="*" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="13" Text="주권이 국민에게 있으니 권리를 위해 소리를 높이는 것은 당연한 것이죠." char="el_npc" anim="elAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="14" Text="&quot;주권이 국민에게 있다.&quot;라는 말의 의미를 알아봅시다." char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="15" Text="대한민국의 주권은 대한민국의 '국민'만이 가집니다." char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="16" Text="퀴즈를 모두 맞혔다! 대한민국의 국민으로서 나는 이 나라의 주인된 권리를 누릴 수 있어. 국민들의 희망을 뜻하는 촛불과 함께 광화문광장을 사진에 담아보자! 하나, 둘, 셋, 찰칵!" char="player" anim="*" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="17" Text="대한민국의 주권을 가진 구성원으로서 나도 주체적으로 목소리를 낼 수 있다는 것을 명심해야겠어!" char="player" anim="*" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="18" Text="광화문광장을 모두 둘러보았습니다. " char="teacher" anim="teachAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="19" Text="광화문광장 다음에는 어디로 갈까?" char="player" anim="*" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="20" Text="내가 살았던 시대와 지금의 이곳은 매우 다르도다. 지금 이곳에 사는 사람들은 정부가 헌법이라는 것에 어긋나는 일을 하면, 그것에 이의를 제기하기 위해 넓은 광장으로 모이는구나. 그럼에도 불구하고 그 누구도 반역죄로 끌려가지 않는 것을 보면, 과인은 상상도 하지 못할 시대가 온 것이지. 조선시대를 느껴 보고 싶다면 북촌 한옥마을에 가보도록 하여라." char="sejong_npc" anim="sejongAnim" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="1" id="21" Text="세종대왕님이 말씀하신 북촌 한옥마을에 가볼까? 북촌 한옥마을에서 조선시대의 왕정 사회를 느껴보자." char="player" anim="*" backImg="gwang" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="2" id="0" Text="###은/는 서울특별시 종로구 가회동, 재동, 삼청동 일대에 위치한 북촌 한옥마을에 도착했습니까? " char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="1" Text="북촌 한옥마을은 고관대작들과 왕족, 사대부들이 모여서 거주해온 고급 살림집터입니다. 북촌은 '청계천과 종로의 윗동네'라는 뜻입니다. " char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="2" Text="서울한옥포털의 '북촌문화센터'에 들어가면, 각종 정보 및 행사 일정을 확인할 수 있습니다.&#xA;북촌문화센터에 방문해봅시다. &#xA;- 위치: 서울특별시 종로구 계동길 37 (지하철 3호선 안국역 3번 출구에서 계동 방향으로 약 5분 정도 직진하면 좌측에 위치)&#xA;- 운영시간: 월요일~금요일 9:00-18:00 / 토요일~일요일 09:00-17:00&#xA;- 문의&quot; 북촌문화센터 사무실( 02-2133-1371 / 02-2133-1372)" char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="3" Text="북촌 한옥마을은 참으로 아름답군요." char="player" anim="*" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="4" Text="처음 보는 얼굴인데 누구신가. 당신은 어디에서 온 양반이지?" char="noble_npc" anim="nobleAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="5" Text="저는 시간 여행자이지 양반은 아닙니다. 상황을 말씀 드리기 복잡한데…" char="player" anim="*" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="6" Text="잠깐! 양반이 아니라니? 이곳은 양반들만 살 수 있는 귀한 땅인데. 여봐라!!" char="noble_npc" anim="nobleAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="7" Text="퀴즈를 맞추어야 이곳을 벗어날 수 있습니다. 퀴즈를 풀어봅시다." char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="8" Text="퀴즈를 모두 맞추었다! 한옥은 그대로인데 사람들 옷차림이 바뀌었어. 그럼 여기는 현대인가? 야호!!" char="player" anim="*" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="9" Text="조선시대에서 현대로 돌아온 것은 환영하지만, 소리를 낮춰주세요. 북촌 한옥마을 거주민들의 환경권을 보호해주세요." char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="10" Text="환경권이 무엇인지 알고 싶나요? 환경권은 인간다운 건강하고 쾌적한 공간에서 살 수 있는 권리입니다. 우리나라에서는 헌법 제 35 조를 통해 규정되고 있지요. 퀴즈를 풀어볼까요?" char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="11" Text="국민은 환경권을 누릴 권리가 있지만, 동시에 환경권을 보호하고 환경 보전을 위하여 노력하여야 합니다." char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="12" Text="북촌 한옥마을의 환경권 침해와 관련한 기사 링크&#xA;&quot;북촌은 사진관, 주민은 모델&quot;… 밀려드는 관광객에 '몸살'" char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="13" Text="퀴즈를 모두 풀었더니 북촌 한옥마을에 잘 어울리는 아름다운 색감의 &#xA;한복을 획득했습니다! " char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="14" Text="북촌 한옥마을에서 가장 아름답다고 생각하는 곳을 사진 찍어봅시다." char="teacher" anim="teachAnim" backImg="buk" type="noneTalk" who="*"/>
+	<Field stage="2" id="15" Text="축하합니다! 지금까지 서울의 주요장소를 살펴 보았습니다. 서울의 여행자로 첫 발을 떼신 걸 축하드립니다. 이제 서울의 또 다른 명소를 구경하러 떠나볼까요? 관광하고 싶은 곳을 자유롭게 선택하세요." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="3" id="0" Text="경복궁은 임금이 살던 조선 왕조 제일의 궁궐입니다. 북으로 북악산에 기대어 자리 잡았고 정문인 광화문 앞으로는 넓은 육조거리(지금의 세종로)가 펼쳐져, 왕도인 한양(서울) 도시 계획의 중심이기도 합니다. 경복궁이라는 이름은 ‘새 왕조가 큰 복을 누려 번영하는 궁궐’을 뜻합니다." char="teacher" anim="teachAnim" backImg="geung" type="noneTalk" who="*"/>
+	<Field stage="3" id="1" Text="경복궁 홈페이지에 들어가면 더 자세한 정보를 확인할 수 있으며, 경회루, 칠궁의 특별관람을 예약할 수 있습니다." char="teacher" anim="teachAnim" backImg="geung" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="4" id="0" Text="헌법재판소는 국가의 최고의 법인 헌법에 관한 분쟁이나 의의를 절차에 &#xA;따라 해결하는 특별재판소입니다. 헌법재판소에는 9명의 재판관이 있는데, 대통령∙국회∙대법원장이 각각 세 명씩 뽑습니다. 국민은 헌법에 보장된 기본권을 침해 당하면 헌법재판소에 헌법 소원을 청구하여 구제받을 수 있습니다." char="teacher" anim="teachAnim" backImg="law" type="noneTalk" who="*"/>
+	<Field stage="4" id="1" Text="헌법재판소 홈페이지에 들어가면 견학을 신청할 수있습니다." char="teacher" anim="teachAnim" backImg="law" type="noneTalk" who="*"/>
+	<Field stage="4" id="2" Text="헌법에 대해 공부하고 퀴즈를 풀어봅시다." char="teacher" anim="teachAnim" backImg="law" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="5" id="0" Text="청와대는 대한민국 정부와 국가를 대표하는 우리의 얼굴과도 같은 곳입니다. 청와대 본관은 1991년 9월에 신축되었습니다. 전통적인 궁궐 건축양식을 기본으로 하여, 외국의 국가원수나 외교사절이 방문했을 때 우리 문화를 보여줄 수 있도록 하고 있습니다." char="teacher" anim="teachAnim" backImg="chung" type="noneTalk" who="*"/>
+	<Field stage="5" id="1" Text="청와대를 방문하려면 관람희망일 180일전 부터 최소 20일 전까지 신청해야 합니다. 혹은 별도의 예약 없이 자유 관람이 가능한 홍보관인 청와대 사랑채에 방문해 보도록 합니다. 청와대 홈페이지에 들어가면 다양한 정보를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="chung" type="noneTalk" who="*"/>
+	<Field stage="5" id="2" Text="청와대에 오니 우리나라의 민주정치에 대해 더 알아보고 싶지 않나요?" char="teacher" anim="teachAnim" backImg="chung" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="6" id="0" Text="축하합니다! '초등사회 교육관광-왕정에서 민주정치까지'에서 준비한 서울 지도를 모두 살펴 보았습니다. 당신은 서울의 자유 여행자가 되었습니다!" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="6" id="1" Text="서울에는 숨겨진 좋은 장소가 많답니다! 숨은 명소를 발굴하여 나만의 관광 지도를 만들어 보면 어떨까요? 내가 가는 곳이 곧 길이고 아는 만큼 보인다!&#xA;-초등사회 교육관광-왕정에서 민주정치까지-" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+</Text_XML>
